@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 2,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 3,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 4,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 5,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 7,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 8,
+        "name": "Yoga Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":250,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 9,
+        "name": "Thriller Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":500,
+        "category": "Dark",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 10,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 11,
+        "name": "Comedy Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":100,
+        "category": "Fun",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    },
+
+    {
+        "id": 12,
+        "name": "Food Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":200,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-photo/untidy-stack-books_1101-319.jpg?t=st=1712075411~exp=1712079011~hmac=9634676fae91dc161faaee192d330c8f5c174aa3dda6943161cb9f8d7605f8f4&w=900"
+    }
+]
